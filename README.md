@@ -1,2 +1,1 @@
 # cv
-curicullam vitae
