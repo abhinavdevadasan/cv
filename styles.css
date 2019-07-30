@@ -1,0 +1,45 @@
+body {
+  align-content: center background-repeat: no-repeat, repeat;
+  background-color: #b0e0e6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
+.sports{
+  margin: 0 0 0 600px;
+}
+.button{
+  margin: 0 0 0 650px;
+}
+.books{
+  margin: 0 0 0 750px;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2{
+  font-size: 50px;
+}
+.heading{
+  font-size: 50px;
+
+}
+
+
+.forms{
+  float: right;
+  margin-right: 536px;
+}
+.button1{
+  margin: 0 0 0 100px;
+}
+.textarea{
+  margin: 0 0 0 23px;
+}
