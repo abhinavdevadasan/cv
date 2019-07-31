@@ -10,13 +10,16 @@ hr {
   border-width: 5px;
   width: 5%
 }
-.sports{
+
+.sports {
   margin: 0 0 0 600px;
 }
-.button{
+
+.button {
   margin: 0 0 0 650px;
 }
-.books{
+
+.books {
   margin: 0 0 0 550px;
 }
 
@@ -24,22 +27,23 @@ h1 {
   font-size: 100px;
 }
 
-h2{
+h2 {
   font-size: 50px;
 }
-.heading{
-  font-size: 50px;
 
+.heading {
+  font-size: 50px;
 }
 
-
-.forms{
+.forms {
   float: right;
   margin-right: 536px;
 }
-.button1{
+
+.button1 {
   margin: 0 0 0 100px;
 }
-.textarea{
+
+.textarea {
   margin: 0 0 0 23px;
 }
