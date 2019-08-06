@@ -1,0 +1,33 @@
+h1
+{
+  color: blue;
+}
+h2
+{
+  color:navy;
+}
+p1
+{
+  color:maroon;
+}
+label
+{
+  color:white;
+}
+.forms {
+  float: right;
+  margin-right: 536px;
+}
+
+.button1 {
+  margin: 0 0 0 100px;
+}
+.textarea {
+  margin: 0 0 0 23px;
+}
+#heading{
+  color: blue;
+}
+.email {
+  margin: 0 0 0 5px;
+}
