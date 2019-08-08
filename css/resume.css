@@ -10,3 +10,20 @@ p1
 {
   color:violet;
 }
+h3{
+  text-align: center;
+  color: lawngreen;
+}
+table{
+  color: yellow;
+width: 40%;
+  padding: 10px;
+  border-collapse: separate;
+  border: 2px solid red;
+}
+.third-table-div{
+  width: 100%;
+  margin-left: 80px;
+  margin-top: 20px;
+  color: yellow;
+}
